@@ -865,6 +865,11 @@
 		"description": "A Simple Tuner for iOS.",
 		"homepage": "https://github.com/comyar/TuningFork"
 	}, {
+		"title": "WebMIDIKit",
+		"category": "audio",
+		"description": "Simplest MIDI Swift framework",
+		"homepage": "https://github.com/adamnemecek/WebMIDIKit/"
+	},{
 		"title": "Cely",
 		"category": "authentication",
 		"description": "A Plug-n-Play login framework written in swift.",
